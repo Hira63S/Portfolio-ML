@@ -18,7 +18,7 @@ url:          http://localhost:4000
 # baseurl:           
 
 # Gems used
-gems:
+plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-paginate
